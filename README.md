@@ -15,5 +15,4 @@ my pinned GitHub repositories or visit [blog.felix-seifert.com](https://blog.fel
 - [Success at AI Hackathon With Java Application Traap](https://blog.felix-seifert.com/success-at-ai-hackathon-with-java-application-traap/)
 - [Structure With the MECE Principle – Also for Software Engineers](https://blog.felix-seifert.com/structure-with-mece-principle/)
 - [Asynchronous Communication – Difference Between Queue and Topic](https://blog.felix-seifert.com/asynchronous-communication-difference-between-queue-topic/)
-- [Internship as a DevOps Engineer in Tokyo](https://blog.felix-seifert.com/internship-as-a-devops-engineer-in-tokyo/)
 <!-- BLOG-POST-LIST:END --> 
