@@ -2,11 +2,16 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/seifertfelix)
 
-Software and Infrastructure Engineer who tames Python(s), and loves both writing and drinking Java in his freetime. Experience in
-creating and operating infrastructure platforms built on top of different clouds and bare metal machines. Work (and life) experience
-in Singapore, Japan, Germany, Sweden and The Netherlands.
+Infrastructure Engineer at [Lyceum](https://lyceum.technology/), Netherlands (remote)
 
-## Latest Blog Posts (fairly old)
+Work experience in Germany, Sweden, Netherlands, Singapore and Japan
+
+MSc in Software Engineering of Distributed Systems from KTH, Stockholm, Sweden
+BSc in Industrial Engineering and Management from KIT, Karlsruhe, Germany
+
+Stories and some insights on [felix-seifert.com/blog](https://felix-seifert.com/blog/)
+
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Writing My First Kubernetes CRD: What I Actually Needed to Know](https://felix-seifert.com/blog/writing-a-basic-kubernetes-crd/)
 - [Serverless Function as a Service on Heroku](https://felix-seifert.com/blog/serverless-function-as-a-service-on-heroku/)
