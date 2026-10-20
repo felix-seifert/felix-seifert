@@ -13,8 +13,8 @@ Stories and some insights on [felix-seifert.com/blog](https://felix-seifert.com/
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Operators: The Reconciliation Loop](https://felix-seifert.com/blog/how-kubernetes-operators-work/)
 - [Custom Resources: What Happens After Defining the Schema](https://felix-seifert.com/blog/understanding-kubernetes-custom-resources/)
 - [Go 1.27 Generic Methods: Finally Chain Methods Like in Java Streams](https://felix-seifert.com/blog/go-generic-methods-stream-api/)
 - [Writing My First Kubernetes CRD: What I Actually Needed to Know](https://felix-seifert.com/blog/writing-a-basic-kubernetes-crd/)
-- [Serverless Function as a Service on Heroku](https://felix-seifert.com/blog/serverless-function-as-a-service-on-heroku/)
 <!-- BLOG-POST-LIST:END --> 
